@@ -84,11 +84,6 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    },
-    "xz8": {
-      "api": "https://www.xz8.cc/api.php/provide/vod",
-      "name": "永乐蓝光影院",
-      "detail": "https://www.xz8.cc"
     }
   }
 }
